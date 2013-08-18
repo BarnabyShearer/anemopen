@@ -1,0 +1,3 @@
+[submodule "scadhelper"]
+	path = scadhelper
+	url = https://zi.is/c/scadhelper
